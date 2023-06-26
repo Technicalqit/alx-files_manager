@@ -1,4 +1,4 @@
-0x04. Files manager
+## 0x04. Files manager
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
 The objective is to build a simple platform to upload and view files:
@@ -13,7 +13,7 @@ Of course, this kind of service already exists in the real life - it’s a learn
 
 Enjoy!
 
-Resources
+# Resources
 Read or watch:
 Node JS getting started
 Process API doc
@@ -25,7 +25,7 @@ Bull
 Image thumbnail
 Mime-Types
 Redis
-Learning Objectives
+# Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 how to create an API with Express
@@ -33,7 +33,7 @@ how to authenticate a user
 how to store data in MongoDB
 how to store temporary data in Redis
 how to setup and use a background worker
-Requirements
+# Requirements
 Allowed editors: vi, vim, emacs, Visual Studio Code
 All your files will be interpreted/compiled on Ubuntu 18.04 LTS using node (version 12.x.x)
 All your files should end with a new line
